@@ -25,8 +25,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initView() {
-        tilOne.setHint("helloWord_1");
-        tilTwo.setHint("helloWord_2");
+        tilOne.setHint("用户名");
+        tilTwo.setHint("密码");
 
     }
 
